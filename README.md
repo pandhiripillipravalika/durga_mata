@@ -106,3 +106,7 @@ python main.py --export --output output_durga_drawing.mp4
   $$\text{Canvas Position} = (X_{\text{stroke}}, Y_{\text{stroke}})$$
   $$\text{Sprite Position} = (X_{\text{stroke}} - \text{TipOffset}_X, Y_{\text{stroke}} - \text{TipOffset}_Y)$$
 - **Progressive Masking**: Line segments are stamped with anti-aliased line masks over the canvas, progressively revealing the exact reference image pixels under the active pencil path.
+
+#output
+![Durga Mata Drawing]
+(durga_mata_output.png)
