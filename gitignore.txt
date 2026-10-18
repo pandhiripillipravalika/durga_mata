@@ -1,0 +1,27 @@
+# Python bytecode & cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Large media & export files
+*.mp4
+*.avi
+*.mov
+
+# Auto-generated masks & temporary test assets
+assets/dark_mask.png
+assets/red_mask.png
+assets/halo_mask.png
+assets/paper_bg.jpg
+assets/clean_reference_white.png
+assets/test_pencil.png
+assets/test_tip_alignment.png
+
+# Environment & IDE
+.venv/
+venv/
+ENV/
+.idea/
+.vscode/
+.DS_Store
