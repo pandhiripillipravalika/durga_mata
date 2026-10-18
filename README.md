@@ -109,4 +109,4 @@ python main.py --export --output output_durga_drawing.mp4
 
 #output
 ![Durga Mata Drawing]
-(durga_mata_output.png)
+("C:\Users\hp\Downloads\durga_mata_output.png.jpg")
